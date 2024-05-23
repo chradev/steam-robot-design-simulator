@@ -16,3 +16,5 @@ The results of using the application are simulations, pictures and animations th
 
 Finally, the development and usage of the application influenced the design process with many productive ideas and reduced the time significantly. On the other hand, it helped to see more possible robot configurations and the design unification.
 
+After uploading the project to GitHub and including it in the GitHub Pages, the application is accessible on: [Steam Robot Design Simulator](https://chradev.github.io/steam-robot-design-simulator/)
+
